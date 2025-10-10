@@ -159,7 +159,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: https://www.instagram.com/jasmiinna.k/ 
+       url: "https://www.instagram.com/jasmiinna.k/" 
   since: "2013"
 
 
