@@ -1,5 +1,0 @@
----
-header:
-  teaser: /assets/images/my-awesome-post-teaser.jpg
---- 
-This is a test post 
