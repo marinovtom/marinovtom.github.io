@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* ========================================================================== Default skin ========================================================================== */
 /* Copyright comment */
 /*!
@@ -1312,3 +1313,14 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
+=======
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+>>>>>>> fc5f98f (css changes)
