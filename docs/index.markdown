@@ -4,7 +4,7 @@
 
 layout: home 
 
-excerpt: "This post should [...]"
+excerpt: "A book review site for all"
 header:
   overlay_image: /assets/images/HomePage.jpg
   overlay_filter: 0.5 
